@@ -33,3 +33,9 @@ I help businesses grow with search — not just rankings, but visibility in Goog
 - About: [About Tanveer Evan Rahat](https://www.tanveerevanrahat.com/about-tanveer-evan-rahat/)
 - Email: tanveer@tanveerevanrahat.com
 - Location: Dhaka, Bangladesh
+
+## Guides in this profile
+
+- [AI SEO, GEO & AEO: How to Rank in ChatGPT and Google AI Overviews](https://github.com/tanveerevanrahat/ai-seo-geo-aeo-guide)
+- [Local SEO: How to Rank in Google's Map Pack (Top 3)](https://github.com/tanveerevanrahat/local-seo-google-maps-guide)
+- [How to Choose the Right SEO Expert in Bangladesh (2027)](https://github.com/tanveerevanrahat/seo-expert-bangladesh-guide)
